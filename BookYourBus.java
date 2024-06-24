@@ -13,7 +13,7 @@ public class BookYourBus {
 		System.out.println("Enter 2 for exit");
 		System.out.println("****************************************************");
 		System.out.println();
-		int a=sc.nextInt();
+		int a=sc.nextInt(); //int a=sc.nextInt();
 		if (a==1)
 		{
 			System.out.println("************************************************");
